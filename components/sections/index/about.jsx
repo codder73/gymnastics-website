@@ -28,31 +28,31 @@ export default function About() {
 		<Section classProp={about.section}>	
 			<Container spacing={['verticalXXXLrg']}>
 				<SectionTitle
-					title="About Me"
-					preTitle="Synopsis"
-					subTitle="With a diverse skill set that includes UX design, UI design, full stack development, operational architecture, systems design, photography, and branding, I am a well-rounded digital professional."
+					title="About"
+					preTitle="courage is contagious"
+					subTitle="With a diverse skill set that includes leadership, Communication, Empathy, Motivation, Commitment, mountaineering, and branding, A well-all-arounded professional coach."
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/family-photo.jpg" alt="Nelson family photo"/>
+						<img src="/img/sirTK.png" alt="Nelson family photo"/>
 						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
-							title="Softskills that pay the bills"
+							title="Dr. T. S. Kundu"
 							containerClass={about.container}
 							iconClass={about.icon}
 							icon={[ 'fat', 'ear-listen' ]}
-							copy="In addition to my design and technical expertise—I also have strong leadership, time management, and multitasking skills—honed through my experience as a business owner / managing partner, husband, and father of two. Outside of work, I enjoy staying active through sports such as hockey and snowboarding. I am confident in my ability to bring passion and value to any project."
+							copy="Meet the Master of Gymnastics: Coach DR. T. S. Kundu. With grace and precision, they guide aspiring gymnasts to new heights. Their meticulous training methods, combined with a deep understanding of the sport, foster excellence and instill unwavering confidence. With Coach Dr. T. S. Kundu sir's guidance, the child who is reading in school has won medals in states, nationals, internationals and as well as Asain games also. "
 						/>
 						<BadgesBlock 
-							title="Reasearch and planning" 
+							title="Nationals organiser" 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
 							block="methods" 
 							icon="fingerprint"
-							copy="One of my favorite aspects of creating is planning the architecture of a project. From Design Systems to Brand Strategy—I enjoy working with the many touch points of user experience."
+							copy="Not only he was only good in sports but he was also a good student he was also good in studies and organising things. As he has organised a Open nationals gymnastics tournament, and his national's were of the level of internationals..."
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>

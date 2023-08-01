@@ -7,7 +7,7 @@
 	max-height: 1440px;
 	height: 100vh;
 	justify-content: center;
-	
+	padding-top: 30px;
 	> .container {
 		height: fit-content;
 	}
@@ -76,7 +76,7 @@
 	--hero-gradient-bg-1: var(--neon-1-1);
 	--hero-gradient-bg-2: var(--neon-1-2);
 	--hero-gradient-bg-3: var(--neon-2-1);
-	--hero-gradient-bg-4: var(--neon-2-2);
+	--hero-gradient-bg-4: var(--neon-1-2);
 	
 	position: absolute;
 	pointer-events: none;
@@ -87,12 +87,12 @@
 	
 	.svg_background {
 		position: absolute;
-		z-index: -1;
+		z-index: -10;
 		width: 200vw;
 		aspect-ratio: 1/1;
 		bottom: 50%;
 		right: 50%;
-		opacity: 15%;
+		opacity: 10%;
 		transform: translate(48.5%, 50%);
 		max-inline-size: unset;
 		max-block-size: unset;
@@ -105,19 +105,20 @@
 		
 		.radialGradient {
 			position: absolute;
-			right: -30%;
+			right: 50%;
 			width: 100%;
 			left: unset;
 			aspect-ratio: 1/1;
 			height: unset;
 			bottom: -60%;
+			top: -1;
 			filter: blur(100px);
 			transform: translateZ(0);
 			opacity: 20%;
 			background: var(--bar-gradient);
 			--bar-gradient: radial-gradient( 
 			circle, 
-			var(--hero-gradient-bg-1) 0%, 
+			var(--hero-gradient-bg-1) 10%, 
 			var(--hero-gradient-bg-2) 24%, 
 			var(--hero-gradient-bg-3) 44%, 
 			var(--hero-gradient-bg-4) 57%, 
@@ -139,7 +140,7 @@
 		--bar-blend-mode:screen;
 		--bar-gradient: linear-gradient( 
 		90deg, 
-		var(--hero-gradient-bg-1) 0%, 
+		var(--hero-gradient-bg-1) 10%, 
 		var(--hero-gradient-bg-2) 26.88%, 
 		var(--hero-gradient-bg-3) 48.46%, 
 		var(--hero-gradient-bg-4) 74.51% 

@@ -1,15 +1,15 @@
 {
-	"name": "Andrew Nelson",
+	"name": "RAI GYMNASTICS",
 	"logo": "",
 	
 	"username": {
-		"github": "atlamors",
-		"medium": "@--andrewnelson"
+		"github": "codder73 & Mukul108",
+		"medium": "@--Mukul108"
 	},
 
 	"portfolio": { 
-		"forkthis": "Steal this theme! Its open-source 🥰",
-		"repo_html": "https://www.github.com/atlamors/portfolio",
-		"repo_api": "https://api.github.com/repos/atlamors/portfolio"
+		"forkthis": "Steal this website! Its open-source 🥰",
+		"repo_html": "https://github.com/Mukul108/gym-web-template",
+		"repo_api": "https://api.github.com/repos/Mukul108/gym-web-template"
 	}
 }

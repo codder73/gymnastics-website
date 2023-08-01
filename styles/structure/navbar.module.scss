@@ -43,13 +43,13 @@
 	.menu {
 		display: flex;	
 		justify-content: space-between;
-		max-width: var(--reading-width);
+		max-width: calc(100% -  15vw);
 		margin: 1rem auto;
 		border-radius: 1rem;
 		position: relative;
 		backdrop-filter: blur(10px);
 		border-radius: 1rem;
-
+		
 		a {
 			font-family: var(--font-accent);
 			font-weight: 700;

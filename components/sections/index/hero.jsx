@@ -63,16 +63,6 @@ export default function Hero() {
 						{ content.paragraph }
 					</p>					
 				</section>
-				<section>
-					<button	className={`button ${button.primary}`}
-							onClick={ () => window.location = 'mailto:hello@andrewnelson.net' } >
-						{content.buttons.primary.title}
-					</button>
-					<button className={`button ${button.secondary} leaveSite`}
-							onClick={ ()=> window.open("https://www.linkedin.com/in/--andrewnelson/", "_blank") } >
-						{content.buttons.secondary.title}
-					</button>
-				</section>
 			</Container>
 			<HeroBg theme="bg-color-1" />
 		</Section>

@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1>andrewnelson.net | portfolio</h1>
+  <h1>RAI-GYMNASTICS TEAM| portfolio</h1>
   <p></p>
   <img src="https://img.shields.io/badge/stability-beta-blue.svg" alt="Experimental">
   <img src="https://vercelbadge.vercel.app/api/atlamors/portfolio-theme" alt="Vercel">
@@ -49,10 +49,7 @@ The porftofolio application has currently hit the Beta phase and is ready to be 
 
 ## Please fork this repo! 🦄
 
-Fork, Install, Editing, and Deploy instructions coming soon(ish)!
-
-This is my first open-source contribution, and it was also a great oppoortunity for me to learn! 
+This is a website for the rai-gymanstics team and for our coach Dr T S Kundu
+Please give a star and fork this repo to edit it and use it as a template
 
 It is my hope that by sharing this project it can give others a chance to enjoy learning Nextjs (and have as much fun as I did), and hopefully brings value to people as a portfolio and networking tool!
-
-

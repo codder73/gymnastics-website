@@ -1,18 +1,18 @@
 [
 	{
-		"url": "/",
-		"title": "About Me"
+		"url": "/disciplines",
+		"title": "Disciplines"
 	},
 	{
-		"url": "/case-studies",
-		"title": "Case Studies"
+		"url": "/about",
+		"title": "About Us"
 	},
 	{
-		"url": "/articles",
-		"title": "Articles"
+		"url": "/achievements",
+		"title": "Achievements"
 	},
 	{
-		"url": "/projects",
-		"title": "Projects"
+		"url": "/mygym",
+		"title": "our gym"
 	}
 ]
