@@ -1,20 +1,15 @@
 {
 	"acknowledgments": [
 		{ 
-			"person": "Jihad Hassan - Marketing Director",
-			"link": "",
+			"person": "MUKUL PAL",
+			"link": "https://mukulpal.xyz",
 			"note": "Thank you for all the advice and feedback."
 		},
 		{ 
-			"person": "Colorpong - Artist",
-			"link": "ttps://www.youworkforthem.com/designer/536/colorpong?aff=1115",
-			"note": "Checkout their amazing vector illustrations."
-		},
-		{ 
-			"person": "Brittany Chiang - Software Engineer",
-			"link": "https://brittanychiang.com/",
-			"note": "A major inspiration to create an open source theme."
-		},
+			"person": "DAGAR",
+			"link": "https://dagarsingh.vercel.app",
+			"note": "Checkout their amazing other pro."
+		},	
 		{ 
 			"person": "Vercel - Platform",
 			"link": "https://vercel.com/docs",
@@ -24,9 +19,9 @@
 
 	"links": [
 		{ 
-			"person": "YWFT Creative Marketplace",
-			"link": "https://www.youworkforthem.com/?aff=1115",
-			"note": "Best in class creative assets."
+			"person": "PSYCHE",
+			"link": "https://psyche.vercel.app",
+			"note": "Best in building tasty techs..."
 		}
 	],
 

@@ -1,0 +1,20 @@
+[ 
+    {
+    "id":1,
+     "title": "Artistics", 
+     "description": "Artistic gymnastics continues to inspire and captivate audiences worldwide with its blend of athleticism and artistry, making it a true spectacle of human achievement..", 
+     "img":"https://plus.unsplash.com/premium_photo-1661896283156-d3d443d745da?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
+    },
+    { 
+    "id": 2,
+     "title": "Acrobatics",
+      "description": "Acro gymnastics is an exciting sport to watch and a true testament to the dedication and teamwork of the athletes involved. Whether in local competitions or on the international stage, Acro gymnastics continues to captivate audiences worldwide with its stunning displays of athleticism and artistry.." ,
+      "img":"https://media.gettyimages.com/id/946536944/photo/gymnastics-acrobatic-world-day-three.jpg?s=2048x2048&w=gi&k=20&c=MjvlnGRWmsSzlD88lti-CcAFPQqvbP2pBDfQTzFnw6o="
+    },
+    { 
+    "id": 3,
+     "title": "Rhythmics",
+      "description": "Rhythmic gymnastics is a unique and elegant discipline within gymnastics that combines  the gymnast's grace, flexibility, coordination, and artistic expression. With it's apparatus  such as a hoop, ball, clubs, ribbon, or rope.", 
+      "img":"https://www.svvoice.com/wp-content/uploads/2019/10/IMG-5241b.jpg" 
+    }
+]

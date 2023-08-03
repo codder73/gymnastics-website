@@ -1,6 +1,6 @@
 // Core packages
 import Image from 'next/image'
-
+import Link from 'next/link'
 // Section structure
 import Section from '../../structure/section';
 import Container from '../../structure/container';
@@ -34,8 +34,8 @@ export default function About() {
 				/>
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="/img/sirTK.png" alt="Nelson family photo"/>
-						{/* <Image src="/img/family-photo.jpg" width={600} height={800}/> */}
+						<img src="/img/sirTK.png" alt="Sir TK Photo"/>
+						{/* <Image src="/img/sirTK.png" width={500} height={1700} alt="Sir TK Photo"/> */}
 					</div>
 					<div className={about.copy} >
 						<CopyBlock 
@@ -46,7 +46,7 @@ export default function About() {
 							copy="Meet the Master of Gymnastics: Coach DR. T. S. Kundu. With grace and precision, they guide aspiring gymnasts to new heights. Their meticulous training methods, combined with a deep understanding of the sport, foster excellence and instill unwavering confidence. With Coach Dr. T. S. Kundu sir's guidance, the child who is reading in school has won medals in states, nationals, internationals and as well as Asain games also. "
 						/>
 						<BadgesBlock 
-							title="Nationals organiser" 
+							title="And much more..." 
 							containerClass={about.container}
 							list={methods} 
 							fullContainer="fullContainer"
@@ -56,6 +56,9 @@ export default function About() {
 							//invertedColor="invertedColor"
 							headerIcon={`${about.icon}`}
 						/>
+						<Link href={'/about'}>
+						KNOW MORE ABOUT US ALSO...
+						</Link>
 					</div>
 				</section>	
 			</Container>
