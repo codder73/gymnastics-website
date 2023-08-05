@@ -139,7 +139,10 @@
 			}
 
 			.image {
-				padding: 1rem;
+				padding: 0 1rem;
+				img{
+					height:100vh;
+				}
 				&.technicalSvg {
 					position: absolute;
 					top: 50%;
