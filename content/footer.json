@@ -22,24 +22,29 @@
 			"person": "PSYCHE",
 			"link": "https://psyche.vercel.app",
 			"note": "Best in building tasty techs..."
+		},
+		{ 
+			"person": "Techincal Page",
+			"link": "/technical",
+			"note": "Technical information about this website..."
 		}
 	],
 
 	"social": [
 		{
-			"url": "https://medium.com/@--andrewnelson",
+			"url": "https://medium.com",
 			"icon": "medium"
 		},
 		{
-			"url": "https://dev.to/andrewnelson",
+			"url": "https://dev.to",
 			"icon": "dev"
 		},
 		{
-			"url": "https://www.linkedin.com/in/--andrewnelson/",
+			"url": "https://www.linkedin.com/",
 			"icon": "linkedin"
 		},
 		{
-			"url": "https://github.com/atlamors",
+			"url": "https://github.com/Mukul108/gym-web-template",
 			"icon": "github"
 		}
 	]
